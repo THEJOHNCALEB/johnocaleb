@@ -1,0 +1,123 @@
+body{
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(UP.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: #ff7200;
+    border: 2px solid;
+    border-radius: 50px 30px 40px 17px;
+    line-height: 72px;
+
+
+   
+    
+}
+hr{
+    width: 900px;
+    
+}
+.navbar{
+    height: 17vh;
+    
+    background-size: cover;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+nav{
+    flex: 1;
+    text-align: center;
+    word-spacing: 60px;
+}
+nav ul li{
+    
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+    
+    
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #ff7200;
+    font-size: 32px;
+    font-family: fantasy;
+}
+
+nav ul li a:hover{
+    color: #fff45e;
+}
+p{  
+    color: darkgoldenrod;
+    font-size: 30px;
+    font-family: cursive;
+}
+.fr{
+    text-align: center;
+    font-size: 44px;
+    font-family: fantasy;
+    color: rgb(233, 183, 47);
+}
+.all{
+    background-color: #e7e078;
+    
+    bottom: 0px;
+    width: 100%;
+    height: 40vh;
+    position: relative;
+}
+.all p{
+    text-align: center;
+    font-size: 27px;
+    font-family: cursive;
+    color: #ff7809;
+}
+.foot{
+    height: 10vh;
+}
+.footter{
+    
+    height: 20vh;
+}
+.contact-icon {
+    color: orange;
+    text-align: center;
+    font-size: 40px;
+    height: 0px;
+}
+
+    .contact-icon a:hover {
+        color: #ff7809;
+    }
+
+    .contact-icon a {
+        color: #000;
+    }
+@media screen and (max-width: 600px) {
+    p{
+        font-size: 22px;
+        font-family: cursive;
+    }
+    
+    nav ul li a{
+        font-size: 22px;
+        font-family: fantasy;
+    }
+    hr{
+        width: 200px;
+    }
+    .all p{
+        font-size: 27px;
+    }
+    .fr{
+        text-align: center;
+        line-height: 30px;
+        font-size: 36px;
+        font-family: fantasy;
+        color: rgb(233, 183, 47);
+    }
+}

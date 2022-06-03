@@ -1,0 +1,72 @@
+body{
+    background: black;
+}
+.pro{
+    position: absolute;
+    left: 35%;
+    top: 20%;;
+}
+img{
+    
+    height: 150px;
+    border-radius: 50px;
+    position: absolute;
+    left: 30%;
+}
+p{
+    color: brown;
+    font-family: cursive;
+    font-size: 32px;
+}
+input{
+    position: absolute;
+    left: 18%;
+    top: 276px;
+    width: 240px;
+    height: 46px;
+    border: solid;
+    background-color:   brown;
+    border-radius: 19px;
+    font-size: 30px;
+    font-family: cursive;
+    color: #ff7200;
+   
+}
+input:hover{
+    color: rgb(253, 236, 4);
+    transition: 0.9s;
+}
+
+
+@media screen and (max-width: 600px) {
+    body{
+        background-color: black;
+    }
+    .pro{
+        position: absolute;
+        left: 10%;
+        top: 19%;
+    }
+    p{
+        color: brown;
+        font-family: 'Times New Roman';
+        font-size: 22px;
+    }
+    input{
+        position: absolute;
+        left: 14%;
+        top: 226px;
+        width: 210px;
+        height: 46px;
+        font-family: cursive;
+        color: #ff7200;
+       
+    }
+    img{
+        height: 120px;
+        border-radius: 50px;
+        position: absolute;
+        left: 30%;
+        top: 120%;
+    }
+}

@@ -1,0 +1,106 @@
+body{
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(UP.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    color: #ff7200;
+    border: 2px solid;
+    border-radius: 50px 30px 40px 17px;
+    line-height: 65px;
+    
+}
+hr{
+    width: 900px;
+}
+.navbar{
+    height: 14vh;
+    background-size: cover;
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+nav{
+    flex: 1;
+    text-align: center;
+    word-spacing: 60px;
+}
+nav ul li{
+    
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+    
+    
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #ff7200;
+    font-size: 25px;
+    font-family: curusive;
+}
+
+nav ul li a:hover{
+    color: #fff45e;
+}
+p{
+    padding: 0px;
+    color: darkgoldenrod;
+    font-size: 35px;
+    font-family: cursive;
+    text-align: center;
+}
+.all{
+    background-color: #e7e078;
+    
+    bottom: 0px;
+    width: 100%;
+    height: 40vh;
+    position: relative;
+}
+.all p{
+    font-size: 27px;
+    font-family: cursive;
+    color: #ff7809;
+}
+.foot{
+    height: 10vh;
+}
+.footter{
+    
+    height: 20vh;
+}
+.bottom-icon {
+    color: orange;
+    text-align: center;
+    font-size: 40px;
+    height: 0px;
+}
+.bottom-icon a:hover {
+        color: #ff7809;
+    }
+.bottom-icon a {
+        color: #000;
+    }
+
+@media screen and (max-width: 600px) {
+    p{
+    	padding: 0px;
+        font-size: 22px;
+        font-family: 'Times New Roman';
+    }
+    
+    nav ul li a{
+        font-size: 19px;
+        font-family: fantasy;
+    }
+    hr{
+        width: 200px;
+    }
+    .all p{
+        font-size: 17px;
+    }
+}
