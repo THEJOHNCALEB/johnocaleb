@@ -1,17 +1,22 @@
-Hi there 👋
 
 
-*Johnocaleb/johnocaleb* is one of my proposed portfolio.
 
-📫 How to reach me: calebjohn3112@gmail.com
 
-💬 Ask me about": C# MONGODB And some Frameworks
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Hi there 👋
+
+-I’m JOHN CALEB
+
+🔭 
+- 💬 Ask me about": 🌱Coding and Programming..
+
+- 👯 I’m looking to collaborate on Projects using C#, Javascript And Mongo DB
+
+- 📫 How to reach me: calebjohn3112@gmail.com
+
+📫 Feel free To Drop A Message.
+
+
+
+ ...
+ 
+ 
