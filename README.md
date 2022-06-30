@@ -1,12 +1,10 @@
 
-
-
-
 * Hi there 👋
 
 -I’m JOHN CALEB
 
 🔭 
+
 - 💬 Ask me about": 🌱Coding and Programming..
 
 - 👯 I’m looking to collaborate on Projects using C#, Javascript And Mongo DB
@@ -18,5 +16,3 @@
 
 
  ...
- 
- 
