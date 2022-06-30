@@ -7,6 +7,8 @@
 
 - 💬 Ask me about": 🌱Coding and Programming..
 
+- I'm Currently Working On Something Cool 😎
+
 - 👯 I’m looking to collaborate on Projects using C#, Javascript And Mongo DB
 
 - 📫 How to reach me: calebjohn3112@gmail.com
