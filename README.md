@@ -8,19 +8,31 @@
 
 🔭 
 
-- 💬 Ask me about": 🌱Coding and Programming..
+- 💬 Ask me about: 🌱Coding and Programming..
 
 - I'm Currently Working On Something Cool 😎
 
 - 👯 I’m looking to collaborate on Projects using C#, Javascript And Mongo DB
 
-- 📫 How to reach me: calebjohn3112@gmail.com
+- 📫 How to reach me: **calebjohn3112@gmail.com**
 
 📫 Feel free To Drop A Message.
 
 
 
+
+...
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnocaleb&label=Profile%20views&color=0e75b6&style=flat" alt="johnocaleb" /> </p>
+
+<p align="left"> <a href="https://twitter.com/johnocaleb" target="blank"><img src="https://img.shields.io/twitter/follow/johnocaleb?logo=twitter&style=for-the-badge" alt="johncaleb" /></a> </p>
+
+
+
  ...
+ 
+ 
  
  ### :hammer_and_wrench: Languages and Tools:
  
