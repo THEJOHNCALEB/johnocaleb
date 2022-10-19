@@ -1,6 +1,3 @@
-<div align="center">
-<h1>IN TIME ⌛</h1>
-</div>
 
 * Hi there 👋
 
