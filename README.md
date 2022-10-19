@@ -28,7 +28,7 @@
 
 <p align="left"> <a href="https://twitter.com/johnocaleb" target="blank"><img src="https://img.shields.io/twitter/follow/johnocaleb?logo=twitter&style=for-the-badge" alt="johncaleb" /></a> </p>
 
-
+                     
 
  ...
  
@@ -52,7 +52,9 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johnocaleb&theme=tokyonight)](https://git.io/streak-stats)
+![John Caleb GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnocaleb&count_private=true&show_icons=true&theme=radical)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnocaleb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Johnocaleb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnocaleb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![John Caleb github activity graph](https://activity-graph.herokuapp.com/graph?username=Johnocaleb&theme=rogue)](https://github.com/Johnocaleb/github-readme-activity-graph)
 
