@@ -23,9 +23,9 @@
 
 <h2>Connect with me </h3>
  <p>
-        <a href="https://linkedin.com/in/Johnocaleb"><img src="https://img.shields.io/badge/-Johnocaleb-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/Johnocaleb" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@Johnocaleb
-/"><img src="https://img.shields.io/badge/-Johnocaleb-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Johnocaleb" alt="Twitter Badge"></a>
+        <a href="https://linkedin.com/in/THEJOHNCALEB"><img src="https://img.shields.io/badge/-THEJOHNCALEB-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/THEJOHNCALEB" alt="LinkedIn Badge"></a> 
+       <a href="https://twitter.com/@THEJOHNCALEB
+/"><img src="https://img.shields.io/badge/-THEJOHNCALEB-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/THEJOHNCALEB" alt="Twitter Badge"></a>
 
    </p>
                      
@@ -55,19 +55,19 @@
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Johnocaleb" alt="John's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Johnocaleb&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="John's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=THEJOHNCALEB" alt="John's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=THEJOHNCALEB&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="John's language" height="192px"  width="500px"/>
 </div>
 
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Johnocaleb&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=THEJOHNCALEB&show_icons=true" />
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Johnocaleb/"><img alt="John' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Johnocaleb&custom_title=John's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/THEJOHNCALEB/"><img alt="John' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=THEJOHNCALEB&custom_title=John's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
@@ -75,5 +75,5 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Johnocaleb&label=Profile%20views&color=0e75b6&style=flat" alt="Johnocaleb" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=THEJOHNCALEB&label=Profile%20views&color=0e75b6&style=flat" alt="THEJOHNCALEB" />
 </p>
